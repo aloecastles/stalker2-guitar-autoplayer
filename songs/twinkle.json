@@ -1,0 +1,34 @@
+{
+  "title": "Twinkle Twinkle Little Star",
+  "tempo_bpm": 80,
+  "comment": "Simple C major accompaniment. Each chord held for ~2 seconds.",
+  "chords": [
+    {"name": "C", "duration": 2.0, "lyrics": "Twinkle, twinkle"},
+    {"name": "F", "duration": 2.0, "lyrics": "little star"},
+    {"name": "C", "duration": 2.0, "lyrics": "How I"},
+    {"name": "G", "duration": 2.0, "lyrics": "wonder"},
+    {"name": "C", "duration": 2.0, "lyrics": "what you"},
+    {"name": "F", "duration": 2.0, "lyrics": "are"},
+    {"name": "C", "duration": 1.0, "lyrics": ""},
+    {"name": "G", "duration": 1.0, "lyrics": ""},
+    {"name": "C", "duration": 2.0, "lyrics": ""},
+
+    {"name": "F", "duration": 2.0, "lyrics": "Up above the"},
+    {"name": "C", "duration": 2.0, "lyrics": "world so high"},
+    {"name": "G", "duration": 2.0, "lyrics": "Like a"},
+    {"name": "C", "duration": 2.0, "lyrics": "diamond"},
+    {"name": "F", "duration": 2.0, "lyrics": "in the"},
+    {"name": "C", "duration": 1.0, "lyrics": ""},
+    {"name": "G", "duration": 1.0, "lyrics": ""},
+    {"name": "C", "duration": 2.0, "lyrics": "sky"},
+
+    {"name": "C", "duration": 2.0, "lyrics": "Twinkle, twinkle"},
+    {"name": "F", "duration": 2.0, "lyrics": "little star"},
+    {"name": "C", "duration": 2.0, "lyrics": "How I"},
+    {"name": "G", "duration": 2.0, "lyrics": "wonder"},
+    {"name": "C", "duration": 2.0, "lyrics": "what you"},
+    {"name": "F", "duration": 1.0, "lyrics": ""},
+    {"name": "G", "duration": 1.0, "lyrics": ""},
+    {"name": "C", "duration": 3.0, "lyrics": "are"}
+  ]
+}

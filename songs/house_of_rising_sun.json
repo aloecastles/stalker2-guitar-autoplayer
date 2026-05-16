@@ -1,0 +1,24 @@
+{
+  "title": "House of the Rising Sun (simplified)",
+  "tempo_bpm": 80,
+  "comment": "Classic folk progression in A minor. Uses chords from both scales - script will auto-swap.",
+  "chords": [
+    {"name": "Am", "duration": 2.0, "lyrics": "There is a"},
+    {"name": "C",  "duration": 2.0, "lyrics": "house"},
+    {"name": "D",  "duration": 2.0, "lyrics": "in New Or-"},
+    {"name": "F",  "duration": 2.0, "lyrics": "leans"},
+    {"name": "Am", "duration": 2.0, "lyrics": "They call the"},
+    {"name": "C",  "duration": 2.0, "lyrics": "Rising"},
+    {"name": "E",  "duration": 2.0, "lyrics": "Sun"},
+    {"name": "E",  "duration": 2.0, "lyrics": ""},
+
+    {"name": "Am", "duration": 2.0, "lyrics": "And it's"},
+    {"name": "C",  "duration": 2.0, "lyrics": "been the"},
+    {"name": "D",  "duration": 2.0, "lyrics": "ruin of"},
+    {"name": "F",  "duration": 2.0, "lyrics": "many a poor boy"},
+    {"name": "Am", "duration": 2.0, "lyrics": "And"},
+    {"name": "E",  "duration": 2.0, "lyrics": "God I"},
+    {"name": "Am", "duration": 2.0, "lyrics": "know"},
+    {"name": "Am", "duration": 2.0, "lyrics": "I'm one"}
+  ]
+}
