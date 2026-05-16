@@ -6,6 +6,8 @@
 
 A Python script that plays chord accompaniment on the in-game guitar in **S.T.A.L.K.E.R. 2: Heart of Chornobyl**. Reads a song from a JSON file and automates mouse movement to the radial menu sectors to play chords in time.
 
+> 🇺🇦 **Покрокова інструкція українською:** [QUICKSTART_UA.md](QUICKSTART_UA.md)
+
 ## How it works
 
 The in-game guitar interface is a radial menu with 6 chord slots × 2 scales = 12 chords total. The script:
